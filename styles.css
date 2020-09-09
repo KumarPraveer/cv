@@ -38,3 +38,14 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 }
+#btnRoll{
+text-align:center;
+font-size: 25px;
+margin-top: 5%;
+height: 60px;
+background-color: #4ECCA3;
+}
+#btnRoll:hover{
+background-color: marooon;
+color: white;
+}
